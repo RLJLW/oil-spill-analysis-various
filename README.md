@@ -1,5 +1,25 @@
 # oil-spill-analysis-various
 
+9 November looks like oil and sheen near cape st francis
+https://worldview.earthdata.nasa.gov/?v=24.197502117456363,-34.53352804193482,25.11558500507773,-33.95336648184986&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-11-09-T12%3A00%3A00Z
+
+Near cape recife looks like oil spots and large areas of oil 9 November 
+https://worldview.earthdata.nasa.gov/?v=24.984712177487015,-34.46667608935246,26.310860641108935,-33.628646787278726&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-11-09-T12%3A00%3A00Z
+
+
+Cape town sheen possible and sheen or bloom northwards 15 nov
+https://worldview.earthdata.nasa.gov/?v=18.13490644237301,-34.00838160432263,18.573856371882314,-33.73099719890897&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-11-15-T02%3A00%3A00Z
+
+sheen bloom 15th nov near  saldanha
+https://worldview.earthdata.nasa.gov/?v=17.836996850543,-33.60022491418854,18.390039106581643,-33.250742462895296&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-11-15-T02%3A00%3A00Z
+
+
+
+Possible sheen - near Saldhana 20 Nov 26
+
+https://worldview.earthdata.nasa.gov/?v=17.74604899032793,-33.52698979394397,18.37230050235082,-33.13124442158211&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Admin_Boundaries(hidden),Coastlines_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-11-20-T12%3A00%3A00Z
+
+
 
 Modelled West Coast blowout — oil reached shore in 75% of simulations
 https://www.dailymaverick.co.za/article/2026-11-24-modelled-west-coast-blowout-oil-reached-shore-in-75-of-simulations/
